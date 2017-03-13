@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1483091253 source:d:\sudha\fall 2016\adv micro\final submission\p4\p4\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"tinydir.h"
+
+1481948032 d:\sudha\fall 2016\adv micro\final submission\p4\p4\tinydir.h
+	<errno.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<dirent.h>
+	<libgen.h>
+	<sys/stat.h>
+	<stddef.h>
+	<unistd.h>
+	<sys/types.h>
+
